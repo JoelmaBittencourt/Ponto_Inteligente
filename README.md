@@ -11,4 +11,4 @@ API de ponto eletronico para empresas
 #####Validation =
 #####MySQL Driver = Para usar o banco MYSQL = Para usar o MYSQL
 
-<img src="D:\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\9c77f4a7-4570-4b13-ac99-09979bacc6a2.jpg"/>
+<img src="https://imgur.com/883eTuu"/>
